@@ -1,0 +1,2874 @@
+{
+    "devices": [
+        {
+            "id": 2310,
+            "name": "MacBook Pro (13-inch, 2017)",
+            "description": "Intel Core  i7-7660U @ 2.5 GHz (2 cores)",
+            "samples": 0,
+            "score": 867,
+            "multicore_score": 1992,
+            "icon": "imac-27-106",
+            "family": "MacBook"
+        },
+        {
+            "id": 2311,
+            "name": "iMac (27-inch  Mid 2015)",
+            "description": "Intel Core  i5-4590 @ 3.3 GHz (4 cores)",
+            "samples": 0,
+            "score": 867,
+            "multicore_score": 2799,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 10,
+            "name": "MacBook (Late 2008)",
+            "description": "Intel Core 2 Duo P7350 @ 2.0 GHz (2 cores)",
+            "samples": 279,
+            "score": 266,
+            "multicore_score": 468,
+            "icon": "macbook-105",
+            "family": "MacBook"
+        },
+        {
+            "id": 11,
+            "name": "MacBook (Late 2008)",
+            "description": "Intel Core 2 Duo P8600 @ 2.4 GHz (2 cores)",
+            "samples": 150,
+            "score": 307,
+            "multicore_score": 542,
+            "icon": "macbook-105",
+            "family": "MacBook"
+        },
+        {
+            "id": 12,
+            "name": "MacBook (Early 2009)",
+            "description": "Intel Core 2 Duo P7350 @ 2.0 GHz (2 cores)",
+            "samples": 57,
+            "score": 239,
+            "multicore_score": 425,
+            "icon": "macbook-105",
+            "family": "MacBook"
+        },
+        {
+            "id": 13,
+            "name": "MacBook (Early 2009)",
+            "description": "Intel Core 2 Duo P7450 @ 2.1 GHz (2 cores)",
+            "samples": 62,
+            "score": 279,
+            "multicore_score": 480,
+            "icon": "macbook-105",
+            "family": "MacBook"
+        },
+        {
+            "id": 14,
+            "name": "MacBook (Late 2009)",
+            "description": "Intel Core 2 Duo P7550 @ 2.3 GHz (2 cores)",
+            "samples": 546,
+            "score": 295,
+            "multicore_score": 517,
+            "icon": "macbook-106",
+            "family": "MacBook"
+        },
+        {
+            "id": 15,
+            "name": "MacBook (Mid 2010)",
+            "description": "Intel Core 2 Duo P8600 @ 2.4 GHz (2 cores)",
+            "samples": 910,
+            "score": 309,
+            "multicore_score": 540,
+            "icon": "macbook-106",
+            "family": "MacBook"
+        },
+        {
+            "id": 20,
+            "name": "MacBook Air (11-inch Late 2010)",
+            "description": "Intel Core 2 Duo U9400 @ 1.4 GHz (2 cores)",
+            "samples": 187,
+            "score": 186,
+            "multicore_score": 330,
+            "icon": "macbook-air-13-106",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 21,
+            "name": "MacBook Air (11-inch Late 2010)",
+            "description": "Intel Core 2 Duo U9600 @ 1.6 GHz (2 cores)",
+            "samples": 68,
+            "score": 214,
+            "multicore_score": 367,
+            "icon": "macbook-air-13-106",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 22,
+            "name": "MacBook Air (13-inch Late 2010)",
+            "description": "Intel Core 2 Duo L9400 @ 1.9 GHz (2 cores)",
+            "samples": 192,
+            "score": 258,
+            "multicore_score": 459,
+            "icon": "macbook-air-13-106",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 23,
+            "name": "MacBook Air (13-inch Late 2010)",
+            "description": "Intel Core 2 Duo L9600 @ 2.1 GHz (2 cores)",
+            "samples": 121,
+            "score": 282,
+            "multicore_score": 491,
+            "icon": "macbook-air-13-106",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 24,
+            "name": "MacBook Air (11-inch Mid 2011)",
+            "description": "Intel Core i5-2467M @ 1.6 GHz (2 cores)",
+            "samples": 692,
+            "score": 376,
+            "multicore_score": 799,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 25,
+            "name": "MacBook Air (11-inch Mid 2011)",
+            "description": "Intel Core i7-2677M @ 1.8 GHz (2 cores)",
+            "samples": 189,
+            "score": 489,
+            "multicore_score": 1002,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 26,
+            "name": "MacBook Air (13-inch Mid 2011)",
+            "description": "Intel Core i5-2557M @ 1.7 GHz (2 cores)",
+            "samples": 1169,
+            "score": 450,
+            "multicore_score": 941,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 27,
+            "name": "MacBook Air (13-inch Mid 2011)",
+            "description": "Intel Core i7-2677M @ 1.8 GHz (2 cores)",
+            "samples": 351,
+            "score": 473,
+            "multicore_score": 974,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 39,
+            "name": "MacBook Pro (Early 2008)",
+            "description": "Intel Core 2 Duo T8300 @ 2.4 GHz (2 cores)",
+            "samples": 35,
+            "score": 266,
+            "multicore_score": 482,
+            "icon": "macbook-pro-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 40,
+            "name": "MacBook Pro (Early 2008)",
+            "description": "Intel Core 2 Duo T9500 @ 2.6 GHz (2 cores)",
+            "samples": 14,
+            "score": 318,
+            "multicore_score": 521,
+            "icon": "macbook-pro-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 41,
+            "name": "MacBook Pro (Early 2008)",
+            "description": "Intel Core 2 Duo T9300 @ 2.5 GHz (2 cores)",
+            "samples": 71,
+            "score": 305,
+            "multicore_score": 551,
+            "icon": "macbook-pro-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 42,
+            "name": "MacBook Pro (Late 2008)",
+            "description": "Intel Core 2 Duo P8600 @ 2.4 GHz (2 cores)",
+            "samples": 159,
+            "score": 306,
+            "multicore_score": 537,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 45,
+            "name": "MacBook Pro (Late 2008)",
+            "description": "Intel Core 2 Duo T9400 @ 2.5 GHz (2 cores)",
+            "samples": 70,
+            "score": 322,
+            "multicore_score": 558,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 46,
+            "name": "MacBook Pro (Late 2008)",
+            "description": "Intel Core 2 Duo T9550 @ 2.7 GHz (2 cores)",
+            "samples": 41,
+            "score": 349,
+            "multicore_score": 600,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 47,
+            "name": "MacBook Pro (17-inch Early 2009)",
+            "description": "Intel Core 2 Duo T9550 @ 2.7 GHz (2 cores)",
+            "samples": 50,
+            "score": 353,
+            "multicore_score": 639,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 48,
+            "name": "MacBook Pro (17-inch Early 2009)",
+            "description": "Intel Core 2 Duo T9800 @ 2.9 GHz (2 cores)",
+            "samples": 22,
+            "score": 412,
+            "multicore_score": 719,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 49,
+            "name": "MacBook Pro (17-inch Mid 2009)",
+            "description": "Intel Core 2 Duo T9600 @ 2.8 GHz (2 cores)",
+            "samples": 116,
+            "score": 374,
+            "multicore_score": 646,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 50,
+            "name": "MacBook Pro (17-inch Mid 2009)",
+            "description": "Intel Core 2 Duo T9900 @ 3.1 GHz (2 cores)",
+            "samples": 30,
+            "score": 401,
+            "multicore_score": 665,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 51,
+            "name": "MacBook Pro (15-inch Mid 2009)",
+            "description": "Intel Core 2 Duo P8800 @ 2.7 GHz (2 cores)",
+            "samples": 130,
+            "score": 338,
+            "multicore_score": 574,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 52,
+            "name": "MacBook Pro (15-inch Mid 2009)",
+            "description": "Intel Core 2 Duo T9600 @ 2.8 GHz (2 cores)",
+            "samples": 87,
+            "score": 356,
+            "multicore_score": 622,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 53,
+            "name": "MacBook Pro (15-inch Mid 2009)",
+            "description": "Intel Core 2 Duo T9900 @ 3.1 GHz (2 cores)",
+            "samples": 22,
+            "score": 397,
+            "multicore_score": 690,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 54,
+            "name": "MacBook Pro (15-inch Mid 2009)",
+            "description": "Intel Core 2 Duo P8700 @ 2.5 GHz (2 cores)",
+            "samples": 153,
+            "score": 315,
+            "multicore_score": 558,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 55,
+            "name": "MacBook Pro (13-inch Mid 2009)",
+            "description": "Intel Core 2 Duo P7550 @ 2.3 GHz (2 cores)",
+            "samples": 402,
+            "score": 297,
+            "multicore_score": 521,
+            "icon": "macbook-pro-13-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 56,
+            "name": "MacBook Pro (13-inch Mid 2009)",
+            "description": "Intel Core 2 Duo P8700 @ 2.5 GHz (2 cores)",
+            "samples": 204,
+            "score": 323,
+            "multicore_score": 566,
+            "icon": "macbook-pro-13-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 57,
+            "name": "MacBook Pro (13-inch Mid 2009)",
+            "description": "Intel Core 2 Duo P8400 @ 2.3 GHz (2 cores)",
+            "samples": 9,
+            "score": 313,
+            "multicore_score": 543,
+            "icon": "macbook-pro-13-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 58,
+            "name": "MacBook Pro (17-inch Early 2010)",
+            "description": "Intel Core i5-540M @ 2.5 GHz (2 cores)",
+            "samples": 266,
+            "score": 427,
+            "multicore_score": 919,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 59,
+            "name": "MacBook Pro (17-inch Early 2010)",
+            "description": "Intel Core i7-620M @ 2.7 GHz (2 cores)",
+            "samples": 263,
+            "score": 477,
+            "multicore_score": 1022,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 60,
+            "name": "MacBook Pro (17-inch Early 2010)",
+            "description": "Intel Core i7-640M @ 2.8 GHz (2 cores)",
+            "samples": 79,
+            "score": 499,
+            "multicore_score": 1044,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 61,
+            "name": "MacBook Pro (15-inch Early 2010)",
+            "description": "Intel Core i5-520M @ 2.4 GHz (2 cores)",
+            "samples": 1146,
+            "score": 410,
+            "multicore_score": 879,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 62,
+            "name": "MacBook Pro (15-inch Early 2010)",
+            "description": "Intel Core i5-540M @ 2.5 GHz (2 cores)",
+            "samples": 488,
+            "score": 425,
+            "multicore_score": 921,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 63,
+            "name": "MacBook Pro (15-inch Early 2010)",
+            "description": "Intel Core i7-620M @ 2.7 GHz (2 cores)",
+            "samples": 1231,
+            "score": 452,
+            "multicore_score": 962,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 64,
+            "name": "MacBook Pro (15-inch Early 2010)",
+            "description": "Intel Core i7-640M @ 2.8 GHz (2 cores)",
+            "samples": 106,
+            "score": 494,
+            "multicore_score": 1027,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 65,
+            "name": "MacBook Pro (13-inch Early 2010)",
+            "description": "Intel Core 2 Duo P8800 @ 2.7 GHz (2 cores)",
+            "samples": 321,
+            "score": 336,
+            "multicore_score": 584,
+            "icon": "macbook-pro-13-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 66,
+            "name": "MacBook Pro (13-inch Early 2010)",
+            "description": "Intel Core 2 Duo P8600 @ 2.4 GHz (2 cores)",
+            "samples": 1969,
+            "score": 307,
+            "multicore_score": 534,
+            "icon": "macbook-pro-13-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 67,
+            "name": "MacBook Pro (13-inch Early 2011)",
+            "description": "Intel Core i5-2415M @ 2.3 GHz (2 cores)",
+            "samples": 3956,
+            "score": 483,
+            "multicore_score": 1058,
+            "icon": "macbook-pro-13-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 68,
+            "name": "MacBook Pro (13-inch Early 2011)",
+            "description": "Intel Core i7-2620M @ 2.7 GHz (2 cores)",
+            "samples": 1352,
+            "score": 567,
+            "multicore_score": 1207,
+            "icon": "macbook-pro-13-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 69,
+            "name": "MacBook Pro (13-inch Late 2011)",
+            "description": "Intel Core i7-2640M @ 2.8 GHz (2 cores)",
+            "samples": 1121,
+            "score": 588,
+            "multicore_score": 1243,
+            "icon": "macbook-pro-13-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 70,
+            "name": "MacBook Pro (15-inch Early 2011)",
+            "description": "Intel Core i7-2820QM @ 2.3 GHz (4 cores)",
+            "samples": 344,
+            "score": 587,
+            "multicore_score": 2085,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 71,
+            "name": "MacBook Pro (15-inch Early 2011)",
+            "description": "Intel Core i7-2720QM @ 2.2 GHz (4 cores)",
+            "samples": 1199,
+            "score": 539,
+            "multicore_score": 1925,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 72,
+            "name": "MacBook Pro (15-inch Early 2011)",
+            "description": "Intel Core i7-2635QM @ 2.0 GHz (4 cores)",
+            "samples": 1729,
+            "score": 507,
+            "multicore_score": 1894,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 73,
+            "name": "MacBook Pro (15-inch Late 2011)",
+            "description": "Intel Core i7-2675QM @ 2.2 GHz (4 cores)",
+            "samples": 1628,
+            "score": 559,
+            "multicore_score": 2063,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 74,
+            "name": "MacBook Pro (15-inch Late 2011)",
+            "description": "Intel Core i7-2760QM @ 2.4 GHz (4 cores)",
+            "samples": 933,
+            "score": 608,
+            "multicore_score": 2121,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 75,
+            "name": "MacBook Pro (17-inch Early 2011)",
+            "description": "Intel Core i7-2820QM @ 2.3 GHz (4 cores)",
+            "samples": 175,
+            "score": 595,
+            "multicore_score": 2158,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 76,
+            "name": "MacBook Pro (17-inch Early 2011)",
+            "description": "Intel Core i7-2720QM @ 2.2 GHz (4 cores)",
+            "samples": 502,
+            "score": 579,
+            "multicore_score": 2067,
+            "icon": "macbook-pro-unibody-106",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 77,
+            "name": "MacBook Pro (17-inch Late 2011)",
+            "description": "Intel Core i7-2760QM @ 2.4 GHz (4 cores)",
+            "samples": 400,
+            "score": 653,
+            "multicore_score": 2315,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 83,
+            "name": "Mac mini (Early 2009)",
+            "description": "Intel Core 2 Duo P7350 @ 2.0 GHz (2 cores)",
+            "samples": 56,
+            "score": 266,
+            "multicore_score": 451,
+            "icon": "mac-mini",
+            "family": "Macmini"
+        },
+        {
+            "id": 85,
+            "name": "Mac mini (Late 2009)",
+            "description": "Intel Core 2 Duo P7550 @ 2.3 GHz (2 cores)",
+            "samples": 94,
+            "score": 311,
+            "multicore_score": 549,
+            "icon": "mac-mini",
+            "family": "Macmini"
+        },
+        {
+            "id": 86,
+            "name": "Mac mini (Late 2009)",
+            "description": "Intel Core 2 Duo P8700 @ 2.5 GHz (2 cores)",
+            "samples": 51,
+            "score": 323,
+            "multicore_score": 564,
+            "icon": "mac-mini",
+            "family": "Macmini"
+        },
+        {
+            "id": 88,
+            "name": "Mac mini (Early 2010)",
+            "description": "Intel Core 2 Duo P8800 @ 2.7 GHz (2 cores)",
+            "samples": 195,
+            "score": 323,
+            "multicore_score": 563,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 89,
+            "name": "Mac mini (Early 2010)",
+            "description": "Intel Core 2 Duo P8600 @ 2.4 GHz (2 cores)",
+            "samples": 802,
+            "score": 294,
+            "multicore_score": 504,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 90,
+            "name": "Mac mini (Mid 2011)",
+            "description": "Intel Core i5-2415M @ 2.3 GHz (2 cores)",
+            "samples": 1624,
+            "score": 505,
+            "multicore_score": 1130,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 91,
+            "name": "Mac mini (Mid 2011)",
+            "description": "Intel Core i5-2520M @ 2.5 GHz (2 cores)",
+            "samples": 521,
+            "score": 565,
+            "multicore_score": 1262,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 92,
+            "name": "Mac mini (Mid 2011)",
+            "description": "Intel Core i7-2620M @ 2.7 GHz (2 cores)",
+            "samples": 265,
+            "score": 598,
+            "multicore_score": 1318,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 93,
+            "name": "Mac mini (Mid 2011)",
+            "description": "Intel Core i7-2635QM @ 2.0 GHz (4 cores)",
+            "samples": 595,
+            "score": 543,
+            "multicore_score": 1876,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 223,
+            "name": "iMac (Early 2008)",
+            "description": "Intel Core 2 Duo E8435 @ 3.1 GHz (2 cores)",
+            "samples": 47,
+            "score": 414,
+            "multicore_score": 748,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 225,
+            "name": "iMac (Early 2008)",
+            "description": "Intel Core 2 Duo E8235 @ 2.8 GHz (2 cores)",
+            "samples": 95,
+            "score": 349,
+            "multicore_score": 615,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 226,
+            "name": "iMac (Early 2009)",
+            "description": "Intel Core 2 Duo E8435 @ 3.1 GHz (2 cores)",
+            "samples": 48,
+            "score": 418,
+            "multicore_score": 729,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 227,
+            "name": "iMac (Early 2009)",
+            "description": "Intel Core 2 Duo E8335 @ 2.9 GHz (2 cores)",
+            "samples": 69,
+            "score": 373,
+            "multicore_score": 658,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 228,
+            "name": "iMac (Early 2009)",
+            "description": "Intel Core 2 Duo E8135 @ 2.7 GHz (2 cores)",
+            "samples": 206,
+            "score": 364,
+            "multicore_score": 640,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 229,
+            "name": "iMac (Late 2009)",
+            "description": "Intel Core 2 Duo E7600 @ 3.1 GHz (2 cores)",
+            "samples": 1737,
+            "score": 380,
+            "multicore_score": 672,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 230,
+            "name": "iMac (Late 2009)",
+            "description": "Intel Core 2 Duo E8600 @ 3.3 GHz (2 cores)",
+            "samples": 144,
+            "score": 455,
+            "multicore_score": 797,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 231,
+            "name": "iMac (27-inch Late 2009)",
+            "description": "Intel Core i7-860 @ 2.8 GHz (4 cores)",
+            "samples": 1013,
+            "score": 486,
+            "multicore_score": 1734,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 232,
+            "name": "iMac (21.5-inch Mid 2010)",
+            "description": "Intel Core i3-540 @ 3.1 GHz (2 cores)",
+            "samples": 1162,
+            "score": 460,
+            "multicore_score": 1008,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 233,
+            "name": "iMac (21.5-inch Mid 2010)",
+            "description": "Intel Core i3-550 @ 3.2 GHz (2 cores)",
+            "samples": 338,
+            "score": 474,
+            "multicore_score": 1044,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 234,
+            "name": "iMac (21.5-inch Mid 2010)",
+            "description": "Intel Core i5-680 @ 3.6 GHz (2 cores)",
+            "samples": 249,
+            "score": 557,
+            "multicore_score": 1202,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 235,
+            "name": "iMac (27-inch Mid 2010)",
+            "description": "Intel Core i3-550 @ 3.2 GHz (2 cores)",
+            "samples": 544,
+            "score": 480,
+            "multicore_score": 1053,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 236,
+            "name": "iMac (27-inch Mid 2010)",
+            "description": "Intel Core i5-680 @ 3.6 GHz (2 cores)",
+            "samples": 28,
+            "score": 609,
+            "multicore_score": 1312,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 237,
+            "name": "iMac (27-inch Mid 2010)",
+            "description": "Intel Core i5-760 @ 2.8 GHz (4 cores)",
+            "samples": 743,
+            "score": 513,
+            "multicore_score": 1574,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 238,
+            "name": "iMac (27-inch Mid 2010)",
+            "description": "Intel Core i7-870 @ 2.9 GHz (4 cores)",
+            "samples": 1179,
+            "score": 543,
+            "multicore_score": 1970,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 239,
+            "name": "iMac (21.5-inch Mid 2011)",
+            "description": "Intel Core i5-2400S @ 2.5 GHz (4 cores)",
+            "samples": 3265,
+            "score": 637,
+            "multicore_score": 1839,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 240,
+            "name": "iMac (21.5-inch Mid 2011)",
+            "description": "Intel Core i5-2500S @ 2.7 GHz (4 cores)",
+            "samples": 895,
+            "score": 649,
+            "multicore_score": 1849,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 241,
+            "name": "iMac (21.5-inch Mid 2011)",
+            "description": "Intel Core i7-2600S @ 2.8 GHz (4 cores)",
+            "samples": 451,
+            "score": 711,
+            "multicore_score": 2304,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 242,
+            "name": "iMac (27-inch Mid 2011)",
+            "description": "Intel Core i7-2600 @ 3.4 GHz (4 cores)",
+            "samples": 2727,
+            "score": 718,
+            "multicore_score": 2644,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 243,
+            "name": "iMac (27-inch Mid 2011)",
+            "description": "Intel Core i5-2400 @ 3.1 GHz (4 cores)",
+            "samples": 1372,
+            "score": 661,
+            "multicore_score": 2122,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 244,
+            "name": "iMac (27-inch Mid 2011)",
+            "description": "Intel Core i5-2500S @ 2.7 GHz (4 cores)",
+            "samples": 1898,
+            "score": 699,
+            "multicore_score": 1935,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 245,
+            "name": "MacBook Pro (13-inch Late 2011)",
+            "description": "Intel Core i5-2435M @ 2.4 GHz (2 cores)",
+            "samples": 3331,
+            "score": 507,
+            "multicore_score": 1100,
+            "icon": "macbook-pro-13-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 246,
+            "name": "MacBook Pro (15-inch Late 2011)",
+            "description": "Intel Core i7-2860QM @ 2.5 GHz (4 cores)",
+            "samples": 259,
+            "score": 638,
+            "multicore_score": 2235,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 247,
+            "name": "MacBook Pro (17-inch Late 2011)",
+            "description": "Intel Core i7-2860QM @ 2.5 GHz (4 cores)",
+            "samples": 181,
+            "score": 676,
+            "multicore_score": 2438,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 252,
+            "name": "Mac Pro (Early 2008)",
+            "description": "Intel Xeon X5482 @ 3.2 GHz (8 cores)",
+            "samples": 308,
+            "score": 459,
+            "multicore_score": 2541,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 253,
+            "name": "Mac Pro (Early 2008)",
+            "description": "Intel Xeon E5462 @ 2.8 GHz (4 cores)",
+            "samples": 75,
+            "score": 402,
+            "multicore_score": 1249,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 254,
+            "name": "Mac Pro (Early 2008)",
+            "description": "Intel Xeon X5472 @ 3.0 GHz (8 cores)",
+            "samples": 225,
+            "score": 432,
+            "multicore_score": 2403,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 255,
+            "name": "Mac Pro (Early 2009)",
+            "description": "Intel Xeon X5550 @ 2.7 GHz (8 cores)",
+            "samples": 5,
+            "score": 524,
+            "multicore_score": 3730,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 256,
+            "name": "Mac Pro (Early 2009)",
+            "description": "Intel Xeon W3540 @ 2.9 GHz (4 cores)",
+            "samples": 7,
+            "score": 524,
+            "multicore_score": 2016,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 257,
+            "name": "Mac Pro (Early 2009)",
+            "description": "Intel Xeon E5520 @ 2.3 GHz (8 cores)",
+            "samples": 116,
+            "score": 433,
+            "multicore_score": 3106,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 258,
+            "name": "Mac Pro (Early 2009)",
+            "description": "Intel Xeon W3520 @ 2.7 GHz (4 cores)",
+            "samples": 98,
+            "score": 494,
+            "multicore_score": 1866,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 259,
+            "name": "Mac Pro (Early 2009)",
+            "description": "Intel Xeon X5570 @ 2.9 GHz (8 cores)",
+            "samples": 25,
+            "score": 557,
+            "multicore_score": 3938,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 260,
+            "name": "Mac Pro (Mid 2010)",
+            "description": "Intel Xeon W3530 @ 2.8 GHz (4 cores)",
+            "samples": 1119,
+            "score": 513,
+            "multicore_score": 1960,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 261,
+            "name": "Mac Pro (Mid 2010)",
+            "description": "Intel Xeon W3565 @ 3.2 GHz (4 cores)",
+            "samples": 791,
+            "score": 573,
+            "multicore_score": 2143,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 262,
+            "name": "Mac Pro (Mid 2010)",
+            "description": "Intel Xeon W3680 @ 3.3 GHz (6 cores)",
+            "samples": 1447,
+            "score": 642,
+            "multicore_score": 3385,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 263,
+            "name": "Mac Pro (Mid 2010)",
+            "description": "Intel Xeon E5620 @ 2.4 GHz (8 cores)",
+            "samples": 1680,
+            "score": 477,
+            "multicore_score": 3445,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 264,
+            "name": "Mac Pro (Mid 2010)",
+            "description": "Intel Xeon X5650 @ 2.7 GHz (12 cores)",
+            "samples": 1485,
+            "score": 545,
+            "multicore_score": 5193,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 265,
+            "name": "Mac Pro (Mid 2010)",
+            "description": "Intel Xeon X5670 @ 2.9 GHz (12 cores)",
+            "samples": 1724,
+            "score": 591,
+            "multicore_score": 5479,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 271,
+            "name": "Xserve (Early 2009)",
+            "description": "Intel Xeon E5520 @ 2.3 GHz (8 cores)",
+            "samples": 17,
+            "score": 432,
+            "multicore_score": 3227,
+            "icon": "xserve-intel",
+            "family": "Xserve"
+        },
+        {
+            "id": 273,
+            "name": "MacBook Air (11-inch Mid 2012)",
+            "description": "Intel Core i5-3317U @ 1.7 GHz (2 cores)",
+            "samples": 729,
+            "score": 496,
+            "multicore_score": 1088,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 274,
+            "name": "MacBook Air (11-inch Mid 2012)",
+            "description": "Intel Core i7-3667U @ 2.0 GHz (2 cores)",
+            "samples": 236,
+            "score": 614,
+            "multicore_score": 1329,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 275,
+            "name": "MacBook Air (13-inch Mid 2012)",
+            "description": "Intel Core i5-3427U @ 1.8 GHz (2 cores)",
+            "samples": 2024,
+            "score": 517,
+            "multicore_score": 1131,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 276,
+            "name": "MacBook Air (13-inch Mid 2012)",
+            "description": "Intel Core i7-3667U @ 2.0 GHz (2 cores)",
+            "samples": 642,
+            "score": 600,
+            "multicore_score": 1291,
+            "icon": "macbook-air-13-107",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 277,
+            "name": "MacBook Pro (Retina)",
+            "description": "Intel Core i7-3615QM @ 2.3 GHz (4 cores)",
+            "samples": 3380,
+            "score": 661,
+            "multicore_score": 2540,
+            "icon": "macbook-pro-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 278,
+            "name": "MacBook Pro (Retina)",
+            "description": "Intel Core i7-3720QM @ 2.6 GHz (4 cores)",
+            "samples": 2508,
+            "score": 711,
+            "multicore_score": 2656,
+            "icon": "macbook-pro-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 279,
+            "name": "MacBook Pro (15-inch Mid 2012)",
+            "description": "Intel Core i7-3820QM @ 2.7 GHz (4 cores)",
+            "samples": 645,
+            "score": 770,
+            "multicore_score": 2978,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 280,
+            "name": "MacBook Pro (15-inch Mid 2012)",
+            "description": "Intel Core i7-3720QM @ 2.6 GHz (4 cores)",
+            "samples": 1851,
+            "score": 717,
+            "multicore_score": 2797,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 281,
+            "name": "MacBook Pro (15-inch Mid 2012)",
+            "description": "Intel Core i7-3615QM @ 2.3 GHz (4 cores)",
+            "samples": 3435,
+            "score": 659,
+            "multicore_score": 2591,
+            "icon": "macbook-pro-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 282,
+            "name": "MacBook Pro (13-inch Mid 2012)",
+            "description": "Intel Core i5-3210M @ 2.5 GHz (2 cores)",
+            "samples": 14166,
+            "score": 578,
+            "multicore_score": 1263,
+            "icon": "macbook-pro-13-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 283,
+            "name": "MacBook Pro (13-inch Mid 2012)",
+            "description": "Intel Core i7-3520M @ 2.9 GHz (2 cores)",
+            "samples": 4345,
+            "score": 677,
+            "multicore_score": 1475,
+            "icon": "macbook-pro-13-unibody-107",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 284,
+            "name": "MacBook Pro (Retina)",
+            "description": "Intel Core i7-3820QM @ 2.7 GHz (4 cores)",
+            "samples": 827,
+            "score": 740,
+            "multicore_score": 2693,
+            "icon": "macbook-pro-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 285,
+            "name": "iMac (21.5 inch Late 2011)",
+            "description": "Intel Core i3-2100 @ 3.1 GHz (2 cores)",
+            "samples": 57,
+            "score": 569,
+            "multicore_score": 1236,
+            "icon": "imac-27-107",
+            "family": "iMac"
+        },
+        {
+            "id": 287,
+            "name": "Mac Pro (Early 2008)",
+            "description": "Intel Xeon E5462 @ 2.8 GHz (8 cores)",
+            "samples": 1495,
+            "score": 407,
+            "multicore_score": 2264,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 289,
+            "name": "Mac Pro (Mid 2012)",
+            "description": "Intel Xeon X5675 @ 3.1 GHz (12 cores)",
+            "samples": 2483,
+            "score": 611,
+            "multicore_score": 5654,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 305,
+            "name": "Xserve (Early 2009)",
+            "description": "Intel Xeon E5520 @ 2.3 GHz (4 cores)",
+            "samples": 7,
+            "score": 447,
+            "multicore_score": 1754,
+            "icon": "xserve-intel",
+            "family": "Xserve"
+        },
+        {
+            "id": 306,
+            "name": "Xserve (Early 2009)",
+            "description": "Intel Xeon X5570 @ 2.9 GHz (8 cores)",
+            "samples": 28,
+            "score": 565,
+            "multicore_score": 4036,
+            "icon": "xserve-intel",
+            "family": "Xserve"
+        },
+        {
+            "id": 317,
+            "name": "iMac (Mid 2009)",
+            "description": "Intel Core 2 Duo P7550 @ 2.3 GHz (2 cores)",
+            "samples": 17,
+            "score": 311,
+            "multicore_score": 556,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 318,
+            "name": "iMac (27-inch Late 2009)",
+            "description": "Intel Core i5-750 @ 2.7 GHz (4 cores)",
+            "samples": 728,
+            "score": 485,
+            "multicore_score": 1481,
+            "icon": "imac-27-106",
+            "family": "iMac"
+        },
+        {
+            "id": 319,
+            "name": "Mac Pro (Early 2008)",
+            "description": "Intel Xeon E5472 @ 3.0 GHz (8 cores)",
+            "samples": 53,
+            "score": 434,
+            "multicore_score": 2491,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 321,
+            "name": "Mac mini (Late 2012)",
+            "description": "Intel Core i5-3210M @ 2.5 GHz (2 cores)",
+            "samples": 3731,
+            "score": 571,
+            "multicore_score": 1275,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 322,
+            "name": "MacBook Pro (13-inch Retina)",
+            "description": "Intel Core i5-3210M @ 2.5 GHz (2 cores)",
+            "samples": 1535,
+            "score": 571,
+            "multicore_score": 1243,
+            "icon": "macbook-pro-13-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 323,
+            "name": "MacBook Pro (13-inch Retina)",
+            "description": "Intel Core i7-3520M @ 2.9 GHz (2 cores)",
+            "samples": 314,
+            "score": 661,
+            "multicore_score": 1435,
+            "icon": "macbook-pro-13-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 324,
+            "name": "Mac mini (Late 2012)",
+            "description": "Intel Core i7-3615QM @ 2.3 GHz (4 cores)",
+            "samples": 4180,
+            "score": 667,
+            "multicore_score": 2619,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 325,
+            "name": "Mac mini (Late 2012)",
+            "description": "Intel Core i7-3720QM @ 2.6 GHz (4 cores)",
+            "samples": 1489,
+            "score": 724,
+            "multicore_score": 2802,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 326,
+            "name": "iMac (21.5-inch Late 2012)",
+            "description": "Intel Core i5-3335S @ 2.7 GHz (4 cores)",
+            "samples": 370,
+            "score": 677,
+            "multicore_score": 2155,
+            "icon": "imac-27-108",
+            "family": "iMac"
+        },
+        {
+            "id": 327,
+            "name": "iMac (21.5-inch Late 2012)",
+            "description": "Intel Core i5-3470S @ 2.9 GHz (4 cores)",
+            "samples": 527,
+            "score": 753,
+            "multicore_score": 2395,
+            "icon": "imac-27-108",
+            "family": "iMac"
+        },
+        {
+            "id": 328,
+            "name": "iMac (21.5-inch Late 2012)",
+            "description": "Intel Core i7-3770S @ 3.1 GHz (4 cores)",
+            "samples": 398,
+            "score": 814,
+            "multicore_score": 3010,
+            "icon": "imac-27-108",
+            "family": "iMac"
+        },
+        {
+            "id": 329,
+            "name": "iMac (27-inch Late 2012)",
+            "description": "Intel Core i7-3770 @ 3.4 GHz (4 cores)",
+            "samples": 2762,
+            "score": 821,
+            "multicore_score": 3097,
+            "icon": "imac-27-108",
+            "family": "iMac"
+        },
+        {
+            "id": 330,
+            "name": "iMac (27-inch Late 2012)",
+            "description": "Intel Core i5-3470S @ 2.9 GHz (4 cores)",
+            "samples": 1331,
+            "score": 746,
+            "multicore_score": 2343,
+            "icon": "imac-27-108",
+            "family": "iMac"
+        },
+        {
+            "id": 331,
+            "name": "iMac (27-inch Late 2012)",
+            "description": "Intel Core i5-3470 @ 3.2 GHz (4 cores)",
+            "samples": 1269,
+            "score": 758,
+            "multicore_score": 2453,
+            "icon": "imac-27-108",
+            "family": "iMac"
+        },
+        {
+            "id": 332,
+            "name": "MacBook Pro (13-inch Retina Early 2013)",
+            "description": "Intel Core i5-3230M @ 2.6 GHz (2 cores)",
+            "samples": 748,
+            "score": 589,
+            "multicore_score": 1280,
+            "icon": "macbook-pro-13-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 333,
+            "name": "MacBook Pro (13-inch Retina Early 2013)",
+            "description": "Intel Core i7-3540M @ 3.0 GHz (2 cores)",
+            "samples": 339,
+            "score": 683,
+            "multicore_score": 1473,
+            "icon": "macbook-pro-13-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 334,
+            "name": "MacBook Pro (15-inch Retina Early 2013)",
+            "description": "Intel Core i7-3635QM @ 2.4 GHz (4 cores)",
+            "samples": 1569,
+            "score": 681,
+            "multicore_score": 2647,
+            "icon": "macbook-pro-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 335,
+            "name": "MacBook Pro (15-inch Retina Early 2013)",
+            "description": "Intel Core i7-3740QM @ 2.7 GHz (4 cores)",
+            "samples": 1767,
+            "score": 727,
+            "multicore_score": 2708,
+            "icon": "macbook-pro-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 336,
+            "name": "MacBook Pro (15-inch Retina Early 2013)",
+            "description": "Intel Core i7-3840QM @ 2.8 GHz (4 cores)",
+            "samples": 379,
+            "score": 748,
+            "multicore_score": 2777,
+            "icon": "macbook-pro-retina",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 337,
+            "name": "MacBook Air (11-inch Mid 2013)",
+            "description": "Intel Core i5-4250U @ 1.3 GHz (2 cores)",
+            "samples": 833,
+            "score": 557,
+            "multicore_score": 1147,
+            "icon": "macbook-air-13-108",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 338,
+            "name": "MacBook Air (11-inch Mid 2013)",
+            "description": "Intel Core i7-4650U @ 1.7 GHz (2 cores)",
+            "samples": 441,
+            "score": 732,
+            "multicore_score": 1437,
+            "icon": "macbook-air-13-108",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 339,
+            "name": "MacBook Air (13-inch Mid 2013)",
+            "description": "Intel Core i5-4250U @ 1.3 GHz (2 cores)",
+            "samples": 2747,
+            "score": 553,
+            "multicore_score": 1141,
+            "icon": "macbook-air-13-108",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 340,
+            "name": "MacBook Air (13-inch Mid 2013)",
+            "description": "Intel Core i7-4650U @ 1.7 GHz (2 cores)",
+            "samples": 2233,
+            "score": 713,
+            "multicore_score": 1398,
+            "icon": "macbook-air-13-108",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 341,
+            "name": "Mac Pro (Mid 2012)",
+            "description": "Intel Xeon E5645 @ 2.4 GHz (12 cores)",
+            "samples": 960,
+            "score": 492,
+            "multicore_score": 4615,
+            "icon": "mac-pro",
+            "family": "MacPro"
+        },
+        {
+            "id": 342,
+            "name": "MacBook Pro (15-inch Retina Late 2013)",
+            "description": "Intel Core i7-4750HQ @ 2.0 GHz (4 cores)",
+            "samples": 3027,
+            "score": 745,
+            "multicore_score": 2902,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 343,
+            "name": "MacBook Pro (15-inch Retina Late 2013)",
+            "description": "Intel Core i7-4850HQ @ 2.3 GHz (4 cores)",
+            "samples": 5485,
+            "score": 811,
+            "multicore_score": 3098,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 344,
+            "name": "MacBook Pro (15-inch Retina Late 2013)",
+            "description": "Intel Core i7-4960HQ @ 2.6 GHz (4 cores)",
+            "samples": 2465,
+            "score": 873,
+            "multicore_score": 3218,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 345,
+            "name": "MacBook Pro (13-inch Retina Late 2013)",
+            "description": "Intel Core i5-4258U @ 2.4 GHz (2 cores)",
+            "samples": 5636,
+            "score": 639,
+            "multicore_score": 1386,
+            "icon": "macbook-pro-13-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 346,
+            "name": "MacBook Pro (13-inch Retina Late 2013)",
+            "description": "Intel Core i5-4288U @ 2.6 GHz (2 cores)",
+            "samples": 1649,
+            "score": 669,
+            "multicore_score": 1447,
+            "icon": "macbook-pro-13-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 347,
+            "name": "MacBook Pro (13-inch Retina Late 2013)",
+            "description": "Intel Core i7-4558U @ 2.8 GHz (2 cores)",
+            "samples": 1350,
+            "score": 729,
+            "multicore_score": 1545,
+            "icon": "macbook-pro-13-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 348,
+            "name": "iMac (21.5-inch Late 2013)",
+            "description": "Intel Core i5-4570R @ 2.7 GHz (4 cores)",
+            "samples": 3140,
+            "score": 764,
+            "multicore_score": 2587,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 349,
+            "name": "iMac (21.5-inch Late 2013)",
+            "description": "Intel Core i5-4570S @ 2.9 GHz (4 cores)",
+            "samples": 1082,
+            "score": 843,
+            "multicore_score": 2617,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 350,
+            "name": "iMac (21.5-inch Late 2013)",
+            "description": "Intel Core i7-4770S @ 3.1 GHz (4 cores)",
+            "samples": 447,
+            "score": 895,
+            "multicore_score": 3250,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 351,
+            "name": "iMac (27-inch Late 2013)",
+            "description": "Intel Core i5-4570 @ 3.2 GHz (4 cores)",
+            "samples": 2850,
+            "score": 842,
+            "multicore_score": 2677,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 352,
+            "name": "iMac (27-inch Late 2013)",
+            "description": "Intel Core i5-4670 @ 3.4 GHz (4 cores)",
+            "samples": 1766,
+            "score": 890,
+            "multicore_score": 2822,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 353,
+            "name": "iMac (27-inch Late 2013)",
+            "description": "Intel Core i7-4771 @ 3.5 GHz (4 cores)",
+            "samples": 2832,
+            "score": 911,
+            "multicore_score": 3377,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 354,
+            "name": "Mac Pro (Late 2013)",
+            "description": "Intel Xeon E5-1650 v2 @ 3.5 GHz (6 cores)",
+            "samples": 4587,
+            "score": 810,
+            "multicore_score": 4555,
+            "icon": "mac-pro-2013",
+            "family": "MacPro"
+        },
+        {
+            "id": 355,
+            "name": "Mac Pro (Late 2013)",
+            "description": "Intel Xeon E5-1620 v2 @ 3.7 GHz (4 cores)",
+            "samples": 3019,
+            "score": 808,
+            "multicore_score": 3218,
+            "icon": "mac-pro-2013",
+            "family": "MacPro"
+        },
+        {
+            "id": 356,
+            "name": "Mac Pro (Late 2013)",
+            "description": "Intel Xeon E5-1680 v2 @ 3.0 GHz (8 cores)",
+            "samples": 1419,
+            "score": 826,
+            "multicore_score": 5891,
+            "icon": "mac-pro-2013",
+            "family": "MacPro"
+        },
+        {
+            "id": 357,
+            "name": "Mac Pro (Late 2013)",
+            "description": "Intel Xeon E5-2697 v2 @ 2.7 GHz (12 cores)",
+            "samples": 5203,
+            "score": 728,
+            "multicore_score": 6994,
+            "icon": "mac-pro-2013",
+            "family": "MacPro"
+        },
+        {
+            "id": 358,
+            "name": "MacBook Air (11-inch Early 2014)",
+            "description": "Intel Core i5-4260U @ 1.4 GHz (2 cores)",
+            "samples": 954,
+            "score": 574,
+            "multicore_score": 1185,
+            "icon": "macbook-air-13-108",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 359,
+            "name": "MacBook Air (13-inch Early 2014)",
+            "description": "Intel Core i5-4260U @ 1.4 GHz (2 cores)",
+            "samples": 3261,
+            "score": 571,
+            "multicore_score": 1175,
+            "icon": "macbook-air-13-108",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 360,
+            "name": "iMac (21.5-inch Mid 2014)",
+            "description": "Intel Core i5-4260U @ 1.4 GHz (2 cores)",
+            "samples": 606,
+            "score": 590,
+            "multicore_score": 1177,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 361,
+            "name": "MacBook Pro (15-inch Retina Mid 2014)",
+            "description": "Intel Core i7-4770HQ @ 2.2 GHz (4 cores)",
+            "samples": 4403,
+            "score": 787,
+            "multicore_score": 3009,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 362,
+            "name": "MacBook Pro (15-inch Retina Mid 2014)",
+            "description": "Intel Core i7-4870HQ @ 2.5 GHz (4 cores)",
+            "samples": 5690,
+            "score": 859,
+            "multicore_score": 3161,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 363,
+            "name": "MacBook Pro (15-inch Retina Mid 2014)",
+            "description": "Intel Core i7-4980HQ @ 2.8 GHz (4 cores)",
+            "samples": 1746,
+            "score": 917,
+            "multicore_score": 3236,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 364,
+            "name": "MacBook Pro (13-inch Retina Mid 2014)",
+            "description": "Intel Core i5-4278U @ 2.6 GHz (2 cores)",
+            "samples": 6201,
+            "score": 684,
+            "multicore_score": 1473,
+            "icon": "macbook-pro-13-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 365,
+            "name": "MacBook Pro (13-inch Retina Mid 2014)",
+            "description": "Intel Core i5-4308U @ 2.8 GHz (2 cores)",
+            "samples": 1209,
+            "score": 733,
+            "multicore_score": 1552,
+            "icon": "macbook-pro-13-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 366,
+            "name": "MacBook Pro (13-inch Retina Mid 2014)",
+            "description": "Intel Core i7-4578U @ 3.0 GHz (2 cores)",
+            "samples": 920,
+            "score": 777,
+            "multicore_score": 1610,
+            "icon": "macbook-pro-13-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 367,
+            "name": "Mac mini (Late 2014)",
+            "description": "Intel Core i5-4260U @ 1.4 GHz (2 cores)",
+            "samples": 1555,
+            "score": 601,
+            "multicore_score": 1232,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 368,
+            "name": "Mac mini (Late 2014)",
+            "description": "Intel Core i5-4278U @ 2.6 GHz (2 cores)",
+            "samples": 3244,
+            "score": 695,
+            "multicore_score": 1501,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 369,
+            "name": "Mac mini (Late 2014)",
+            "description": "Intel Core i5-4308U @ 2.8 GHz (2 cores)",
+            "samples": 696,
+            "score": 731,
+            "multicore_score": 1576,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 370,
+            "name": "Mac mini (Late 2014)",
+            "description": "Intel Core i7-4578U @ 3.0 GHz (2 cores)",
+            "samples": 994,
+            "score": 769,
+            "multicore_score": 1633,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 371,
+            "name": "iMac (27-inch Retina)",
+            "description": "Intel Core i7-4790K @ 4.0 GHz (4 cores)",
+            "samples": 4162,
+            "score": 1027,
+            "multicore_score": 3721,
+            "icon": "imac-27-retina",
+            "family": "iMac"
+        },
+        {
+            "id": 372,
+            "name": "iMac (27-inch Retina)",
+            "description": "Intel Core i5-4690 @ 3.5 GHz (4 cores)",
+            "samples": 2260,
+            "score": 910,
+            "multicore_score": 2885,
+            "icon": "imac-27-retina",
+            "family": "iMac"
+        },
+        {
+            "id": 373,
+            "name": "MacBook Air (11-inch Early 2015)",
+            "description": "Intel Core i5-5250U @ 1.6 GHz (2 cores)",
+            "samples": 1460,
+            "score": 607,
+            "multicore_score": 1266,
+            "icon": "macbook-air-1010",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 374,
+            "name": "MacBook Air (13-inch Early 2015)",
+            "description": "Intel Core i5-5250U @ 1.6 GHz (2 cores)",
+            "samples": 8779,
+            "score": 603,
+            "multicore_score": 1250,
+            "icon": "macbook-air-1010",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 375,
+            "name": "MacBook Air (11-inch Early 2015)",
+            "description": "Intel Core i7-5650U @ 2.2 GHz (2 cores)",
+            "samples": 311,
+            "score": 727,
+            "multicore_score": 1526,
+            "icon": "macbook-air-1010",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 376,
+            "name": "MacBook Air (13-inch Early 2015)",
+            "description": "Intel Core i7-5650U @ 2.2 GHz (2 cores)",
+            "samples": 2132,
+            "score": 737,
+            "multicore_score": 1538,
+            "icon": "macbook-air-1010",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 377,
+            "name": "MacBook Pro (13-inch Retina Early 2015)",
+            "description": "Intel Core i5-5257U @ 2.7 GHz (2 cores)",
+            "samples": 19690,
+            "score": 715,
+            "multicore_score": 1541,
+            "icon": "macbook-pro-13-1010",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 378,
+            "name": "MacBook Pro (13-inch Retina Early 2015)",
+            "description": "Intel Core i7-5557U @ 3.1 GHz (2 cores)",
+            "samples": 3704,
+            "score": 795,
+            "multicore_score": 1665,
+            "icon": "macbook-pro-13-1010",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 379,
+            "name": "MacBook Pro (13-inch Retina Early 2015)",
+            "description": "Intel Core i5-5287U @ 2.9 GHz (2 cores)",
+            "samples": 3638,
+            "score": 759,
+            "multicore_score": 1619,
+            "icon": "macbook-pro-13-1010",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 380,
+            "name": "MacBook (Early 2015)",
+            "description": "Intel Core M-5Y31 @ 1.1 GHz (2 cores)",
+            "samples": 1488,
+            "score": 521,
+            "multicore_score": 1034,
+            "icon": "macbook-1010",
+            "family": "MacBook"
+        },
+        {
+            "id": 381,
+            "name": "MacBook (Early 2015)",
+            "description": "Intel Core M-5Y51 @ 1.2 GHz (2 cores)",
+            "samples": 869,
+            "score": 548,
+            "multicore_score": 1108,
+            "icon": "macbook-1010",
+            "family": "MacBook"
+        },
+        {
+            "id": 382,
+            "name": "MacBook (Early 2015)",
+            "description": "Intel Core M-5Y71 @ 1.3 GHz (2 cores)",
+            "samples": 363,
+            "score": 598,
+            "multicore_score": 1143,
+            "icon": "macbook-1010",
+            "family": "MacBook"
+        },
+        {
+            "id": 383,
+            "name": "MacBook Pro (15-inch Retina Mid 2015)",
+            "description": "Intel Core i7-4770HQ @ 2.2 GHz (4 cores)",
+            "samples": 10781,
+            "score": 791,
+            "multicore_score": 3057,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 384,
+            "name": "MacBook Pro (15-inch Retina Mid 2015)",
+            "description": "Intel Core i7-4870HQ @ 2.5 GHz (4 cores)",
+            "samples": 10465,
+            "score": 863,
+            "multicore_score": 3190,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 385,
+            "name": "MacBook Pro (15-inch Retina Mid 2015)",
+            "description": "Intel Core i7-4980HQ @ 2.8 GHz (4 cores)",
+            "samples": 5419,
+            "score": 927,
+            "multicore_score": 3313,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 386,
+            "name": "MacBook (Early 2016)",
+            "description": "Intel Core m3-6Y30 @ 1.1 GHz (2 cores)",
+            "samples": 1127,
+            "score": 485,
+            "multicore_score": 1099,
+            "icon": "macbook-1010",
+            "family": "MacBook"
+        },
+        {
+            "id": 387,
+            "name": "MacBook (Early 2016)",
+            "description": "Intel Core m5-6Y54 @ 1.2 GHz (2 cores)",
+            "samples": 704,
+            "score": 580,
+            "multicore_score": 1296,
+            "icon": "macbook-1010",
+            "family": "MacBook"
+        },
+        {
+            "id": 388,
+            "name": "MacBook (Early 2016)",
+            "description": "Intel Core m7-6Y75 @ 1.3 GHz (2 cores)",
+            "samples": 345,
+            "score": 639,
+            "multicore_score": 1389,
+            "icon": "macbook-1010",
+            "family": "MacBook"
+        },
+        {
+            "id": 389,
+            "name": "iMac (27-inch Retina Late 2015)",
+            "description": "Intel Core i7-6700K @ 4.0 GHz (4 cores)",
+            "samples": 6947,
+            "score": 1053,
+            "multicore_score": 4268,
+            "icon": "imac-27-retina",
+            "family": "iMac"
+        },
+        {
+            "id": 390,
+            "name": "iMac (27-inch Retina Late 2015)",
+            "description": "Intel Core i5-6600 @ 3.3 GHz (4 cores)",
+            "samples": 1999,
+            "score": 906,
+            "multicore_score": 3088,
+            "icon": "imac-27-retina",
+            "family": "iMac"
+        },
+        {
+            "id": 391,
+            "name": "iMac (27-inch Retina Late 2015)",
+            "description": "Intel Core i5-6500 @ 3.2 GHz (4 cores)",
+            "samples": 5619,
+            "score": 845,
+            "multicore_score": 2896,
+            "icon": "imac-27-retina",
+            "family": "iMac"
+        },
+        {
+            "id": 392,
+            "name": "iMac (21.5-inch Late 2015)",
+            "description": "Intel Core i5-5250U @ 1.6 GHz (2 cores)",
+            "samples": 728,
+            "score": 630,
+            "multicore_score": 1307,
+            "icon": "imac-27-109",
+            "family": "iMac"
+        },
+        {
+            "id": 393,
+            "name": "iMac (21.5-inch Retina Late 2015)",
+            "description": "Intel Core i5-5675R @ 3.1 GHz (4 cores)",
+            "samples": 1398,
+            "score": 899,
+            "multicore_score": 3040,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 394,
+            "name": "iMac (21.5-inch Late 2015)",
+            "description": "Intel Core i5-5575R @ 2.8 GHz (4 cores)",
+            "samples": 1123,
+            "score": 839,
+            "multicore_score": 2886,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 395,
+            "name": "iMac (21.5-inch Retina Late 2015)",
+            "description": "Intel Core i7-5775R @ 3.3 GHz (4 cores)",
+            "samples": 420,
+            "score": 942,
+            "multicore_score": 3650,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 396,
+            "name": "MacBook Pro (13-inch Late 2016)",
+            "description": "Intel Core i5-6360U @ 2.0 GHz (2 cores)",
+            "samples": 3396,
+            "score": 692,
+            "multicore_score": 1586,
+            "icon": "macbook-pro-13-fn-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 397,
+            "name": "MacBook Pro (13-inch Late 2016)",
+            "description": "Intel Core i7-6660U @ 2.4 GHz (2 cores)",
+            "samples": 344,
+            "score": 748,
+            "multicore_score": 1738,
+            "icon": "macbook-pro-13-fn-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 398,
+            "name": "MacBook Pro (15-inch Retina Mid 2015)",
+            "description": "Intel Core i7-4980HQ @ 2.8 GHz (4 cores)",
+            "samples": 5419,
+            "score": 927,
+            "multicore_score": 3313,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 399,
+            "name": "MacBook Pro (15-inch Retina Mid 2015)",
+            "description": "Intel Core i7-4870HQ @ 2.5 GHz (4 cores)",
+            "samples": 10465,
+            "score": 863,
+            "multicore_score": 3190,
+            "icon": "macbook-pro-retina-109",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 400,
+            "name": "MacBook Pro (15-inch Late 2016)",
+            "description": "Intel Core i7-6700HQ @ 2.6 GHz (4 cores)",
+            "samples": 5180,
+            "score": 763,
+            "multicore_score": 3124,
+            "icon": "macbook-pro-15-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 401,
+            "name": "MacBook Pro (15-inch Late 2016)",
+            "description": "Intel Core i7-6820HQ @ 2.7 GHz (4 cores)",
+            "samples": 4575,
+            "score": 791,
+            "multicore_score": 3209,
+            "icon": "macbook-pro-15-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 402,
+            "name": "MacBook Pro (15-inch Late 2016)",
+            "description": "Intel Core i7-6920HQ @ 2.9 GHz (4 cores)",
+            "samples": 2895,
+            "score": 835,
+            "multicore_score": 3318,
+            "icon": "macbook-pro-15-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 403,
+            "name": "MacBook Pro (13-inch Late 2016)",
+            "description": "Intel Core i5-6267U @ 2.9 GHz (2 cores)",
+            "samples": 5507,
+            "score": 708,
+            "multicore_score": 1641,
+            "icon": "macbook-pro-13-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 404,
+            "name": "MacBook Pro (13-inch Late 2016)",
+            "description": "Intel Core i5-6287U @ 3.1 GHz (2 cores)",
+            "samples": 486,
+            "score": 744,
+            "multicore_score": 1738,
+            "icon": "macbook-pro-13-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 405,
+            "name": "MacBook Pro (13-inch Late 2016)",
+            "description": "Intel Core i7-6567U @ 3.3 GHz (2 cores)",
+            "samples": 1901,
+            "score": 753,
+            "multicore_score": 1763,
+            "icon": "macbook-pro-13-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 406,
+            "name": "iMac (27-inch Retina Mid 2017)",
+            "description": "Intel Core i5-7600 @ 3.5 GHz (4 cores)",
+            "samples": 1637,
+            "score": 967,
+            "multicore_score": 3369,
+            "icon": "imac-27-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 407,
+            "name": "iMac (27-inch Retina Mid 2017)",
+            "description": "Intel Core i7-7700K @ 4.2 GHz (4 cores)",
+            "samples": 6433,
+            "score": 1105,
+            "multicore_score": 4443,
+            "icon": "imac-27-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 408,
+            "name": "iMac (27-inch Retina Mid 2017)",
+            "description": "Intel Core i5-7500 @ 3.4 GHz (4 cores)",
+            "samples": 4982,
+            "score": 901,
+            "multicore_score": 3160,
+            "icon": "imac-27-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 409,
+            "name": "iMac (27-inch Retina Mid 2017)",
+            "description": "Intel Core i5-7600K @ 3.8 GHz (4 cores)",
+            "samples": 2746,
+            "score": 996,
+            "multicore_score": 3488,
+            "icon": "imac-27-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 410,
+            "name": "iMac (21.5-inch Mid 2017)",
+            "description": "Intel Core i5-7360U @ 2.3 GHz (2 cores)",
+            "samples": 1654,
+            "score": 847,
+            "multicore_score": 2006,
+            "icon": "imac-215-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 411,
+            "name": "iMac (21.5-inch Retina Mid 2017)",
+            "description": "Intel Core i5-7500 @ 3.4 GHz (4 cores)",
+            "samples": 1773,
+            "score": 904,
+            "multicore_score": 3160,
+            "icon": "imac-215-retina-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 412,
+            "name": "MacBook (Mid 2017)",
+            "description": "Intel Core m3-7Y32 @ 1.2 GHz (2 cores)",
+            "samples": 1609,
+            "score": 658,
+            "multicore_score": 1424,
+            "icon": "macbook-mid-2017",
+            "family": "MacBook"
+        },
+        {
+            "id": 414,
+            "name": "MacBook Pro (13-inch Mid 2017)",
+            "description": "Intel Core i5-7360U @ 2.3 GHz (2 cores)",
+            "samples": 19745,
+            "score": 830,
+            "multicore_score": 1948,
+            "icon": "macbook-pro-13-fn-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 415,
+            "name": "MacBook Pro (13-inch Mid 2017)",
+            "description": "Intel Core i5-7267U @ 3.1 GHz (2 cores)",
+            "samples": 7135,
+            "score": 806,
+            "multicore_score": 1928,
+            "icon": "macbook-pro-13-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 416,
+            "name": "MacBook Pro (13-inch Mid 2017)",
+            "description": "Intel Core i7-7567U @ 3.5 GHz (2 cores)",
+            "samples": 2311,
+            "score": 898,
+            "multicore_score": 2081,
+            "icon": "macbook-pro-13-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 417,
+            "name": "MacBook Pro (15-inch Mid 2017)",
+            "description": "Intel Core i7-7700HQ @ 2.8 GHz (4 cores)",
+            "samples": 6350,
+            "score": 840,
+            "multicore_score": 3313,
+            "icon": "macbook-pro-15-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 418,
+            "name": "MacBook Pro (15-inch Mid 2017)",
+            "description": "Intel Core i7-7820HQ @ 2.9 GHz (4 cores)",
+            "samples": 7326,
+            "score": 867,
+            "multicore_score": 3375,
+            "icon": "macbook-pro-15-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 419,
+            "name": "MacBook Pro (15-inch Mid 2017)",
+            "description": "Intel Core i7-7920HQ @ 3.1 GHz (4 cores)",
+            "samples": 3177,
+            "score": 893,
+            "multicore_score": 3413,
+            "icon": "macbook-pro-15-tb-late-2016",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 420,
+            "name": "iMac (21.5-inch Retina Mid 2017)",
+            "description": "Intel Core i5-7400 @ 3.0 GHz (4 cores)",
+            "samples": 2477,
+            "score": 842,
+            "multicore_score": 2958,
+            "icon": "imac-215-retina-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 421,
+            "name": "iMac (21.5-inch Retina Mid 2017)",
+            "description": "Intel Core i7-7700 @ 3.6 GHz (4 cores)",
+            "samples": 808,
+            "score": 1007,
+            "multicore_score": 4167,
+            "icon": "imac-215-retina-mid-2017",
+            "family": "iMac"
+        },
+        {
+            "id": 422,
+            "name": "MacBook (Mid 2017)",
+            "description": "Intel Core i7-7Y75 @ 1.4 GHz (2 cores)",
+            "samples": 879,
+            "score": 717,
+            "multicore_score": 1475,
+            "icon": "macbook-mid-2017",
+            "family": "MacBook"
+        },
+        {
+            "id": 423,
+            "name": "MacBook (Mid 2017)",
+            "description": "Intel Core i5-7Y54 @ 1.3 GHz (2 cores)",
+            "samples": 1084,
+            "score": 671,
+            "multicore_score": 1459,
+            "icon": "macbook-mid-2017",
+            "family": "MacBook"
+        },
+        {
+            "id": 424,
+            "name": "MacBook Air (Mid 2017)",
+            "description": "Intel Core i5-5350U @ 1.8 GHz (2 cores)",
+            "samples": 9829,
+            "score": 653,
+            "multicore_score": 1352,
+            "icon": "macbook-air-1010",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 425,
+            "name": "iMac Pro (Late 2017)",
+            "description": "Intel Xeon W-2150B @ 3.0 GHz (10 cores)",
+            "samples": 1463,
+            "score": 1114,
+            "multicore_score": 9397,
+            "icon": "imac-pro",
+            "family": "iMacPro"
+        },
+        {
+            "id": 426,
+            "name": "iMac Pro (Late 2017)",
+            "description": "Intel Xeon W-2140B @ 3.2 GHz (8 cores)",
+            "samples": 2790,
+            "score": 1063,
+            "multicore_score": 7979,
+            "icon": "imac-pro",
+            "family": "iMacPro"
+        },
+        {
+            "id": 427,
+            "name": "iMac Pro (Late 2017)",
+            "description": "Intel Xeon W-2170B @ 2.5 GHz (14 cores)",
+            "samples": 260,
+            "score": 1084,
+            "multicore_score": 11054,
+            "icon": "imac-pro",
+            "family": "iMacPro"
+        },
+        {
+            "id": 428,
+            "name": "iMac Pro (Late 2017)",
+            "description": "Intel Xeon W-2191B @ 2.3 GHz (18 cores)",
+            "samples": 582,
+            "score": 1089,
+            "multicore_score": 13434,
+            "icon": "imac-pro",
+            "family": "iMacPro"
+        },
+        {
+            "id": 429,
+            "name": "MacBook Pro (15-inch Mid 2018)",
+            "description": "Intel Core i7-8750H @ 2.2 GHz (6 cores)",
+            "samples": 8234,
+            "score": 944,
+            "multicore_score": 4659,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 430,
+            "name": "MacBook Pro (15-inch Mid 2018)",
+            "description": "Intel Core i7-8850H @ 2.6 GHz (6 cores)",
+            "samples": 8571,
+            "score": 971,
+            "multicore_score": 4742,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 431,
+            "name": "MacBook Pro (15-inch Mid 2018)",
+            "description": "Intel Core i9-8950HK @ 2.9 GHz (6 cores)",
+            "samples": 4566,
+            "score": 1026,
+            "multicore_score": 4974,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 432,
+            "name": "MacBook Pro (13-inch Mid 2018)",
+            "description": "Intel Core i5-8259U @ 2.3 GHz (4 cores)",
+            "samples": 10137,
+            "score": 874,
+            "multicore_score": 3717,
+            "icon": "macbook-pro-13-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 433,
+            "name": "MacBook Pro (13-inch Mid 2018)",
+            "description": "Intel Core i7-8559U @ 2.7 GHz (4 cores)",
+            "samples": 3238,
+            "score": 1006,
+            "multicore_score": 3903,
+            "icon": "macbook-pro-13-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 434,
+            "name": "Mac mini (Late 2018)",
+            "description": "Intel Core i7-8700B @ 3.2 GHz (6 cores)",
+            "samples": 11221,
+            "score": 1099,
+            "multicore_score": 5477,
+            "icon": "mac-mini-late-2018",
+            "family": "Macmini"
+        },
+        {
+            "id": 435,
+            "name": "Mac mini (Late 2018)",
+            "description": "Intel Core i3-8100B @ 3.6 GHz (4 cores)",
+            "samples": 2634,
+            "score": 895,
+            "multicore_score": 3184,
+            "icon": "mac-mini-late-2018",
+            "family": "Macmini"
+        },
+        {
+            "id": 436,
+            "name": "Mac mini (Late 2018)",
+            "description": "Intel Core i5-8500B @ 3.0 GHz (6 cores)",
+            "samples": 6137,
+            "score": 998,
+            "multicore_score": 4656,
+            "icon": "mac-mini-late-2018",
+            "family": "Macmini"
+        },
+        {
+            "id": 437,
+            "name": "MacBook Air (Late 2018)",
+            "description": "Intel Core i5-8210Y @ 1.6 GHz (2 cores)",
+            "samples": 5985,
+            "score": 727,
+            "multicore_score": 1455,
+            "icon": "macbook-air-late-2018",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 438,
+            "name": "iMac (27-inch Retina Early 2019)",
+            "description": "Intel Core i9-9900K @ 3.6 GHz (8 cores)",
+            "samples": 14731,
+            "score": 1231,
+            "multicore_score": 8210,
+            "icon": "imac-27-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 439,
+            "name": "iMac (27-inch Retina Early 2019)",
+            "description": "Intel Core i5-9600K @ 3.7 GHz (6 cores)",
+            "samples": 5793,
+            "score": 1130,
+            "multicore_score": 5453,
+            "icon": "imac-27-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 440,
+            "name": "iMac (27-inch Retina Early 2019)",
+            "description": "Intel Core i5-8500 @ 3.0 GHz (6 cores)",
+            "samples": 3914,
+            "score": 1001,
+            "multicore_score": 4824,
+            "icon": "imac-27-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 441,
+            "name": "iMac (27-inch Retina Early 2019)",
+            "description": "Intel Core i5-8600 @ 3.1 GHz (6 cores)",
+            "samples": 1013,
+            "score": 1055,
+            "multicore_score": 5040,
+            "icon": "imac-27-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 442,
+            "name": "iMac (21.5-inch Retina Early 2019)",
+            "description": "Intel Core i3-8100 @ 3.6 GHz (4 cores)",
+            "samples": 1488,
+            "score": 897,
+            "multicore_score": 3182,
+            "icon": "imac-215-retina-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 443,
+            "name": "iMac (21.5-inch Retina Early 2019)",
+            "description": "Intel Core i7-8700 @ 3.2 GHz (6 cores)",
+            "samples": 1236,
+            "score": 1112,
+            "multicore_score": 6034,
+            "icon": "imac-215-retina-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 444,
+            "name": "iMac (21.5-inch Retina Early 2019)",
+            "description": "Intel Core i5-8500 @ 3.0 GHz (6 cores)",
+            "samples": 1657,
+            "score": 996,
+            "multicore_score": 4708,
+            "icon": "imac-215-retina-early-2019",
+            "family": "iMac"
+        },
+        {
+            "id": 445,
+            "name": "MacBook Pro (15-inch Mid 2019)",
+            "description": "Intel Core i7-9750H @ 2.6 GHz (6 cores)",
+            "samples": 4293,
+            "score": 993,
+            "multicore_score": 4894,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 446,
+            "name": "MacBook Pro (15-inch Mid 2019)",
+            "description": "Intel Core i9-9880H @ 2.3 GHz (8 cores)",
+            "samples": 5060,
+            "score": 1054,
+            "multicore_score": 6066,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 447,
+            "name": "MacBook Pro (15-inch Mid 2019)",
+            "description": "Intel Core i9-9980HK @ 2.4 GHz (8 cores)",
+            "samples": 2414,
+            "score": 1074,
+            "multicore_score": 6449,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 448,
+            "name": "MacBook Pro (13-inch Mid 2019)",
+            "description": "Intel Core i5-8257U @ 1.4 GHz (4 cores)",
+            "samples": 11107,
+            "score": 900,
+            "multicore_score": 3659,
+            "icon": "macbook-pro-13-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 449,
+            "name": "MacBook Pro (13-inch Mid 2019)",
+            "description": "Intel Core i7-8557U @ 1.7 GHz (4 cores)",
+            "samples": 536,
+            "score": 1017,
+            "multicore_score": 3797,
+            "icon": "macbook-pro-13-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 451,
+            "name": "MacBook Pro (13-inch Mid 2019)",
+            "description": "Intel Core i5-8279U @ 2.4 GHz (4 cores)",
+            "samples": 5403,
+            "score": 925,
+            "multicore_score": 3759,
+            "icon": "macbook-pro-13-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 452,
+            "name": "MacBook Pro (13-inch Mid 2019)",
+            "description": "Intel Core i7-8569U @ 2.8 GHz (4 cores)",
+            "samples": 4219,
+            "score": 1086,
+            "multicore_score": 4144,
+            "icon": "macbook-pro-13-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 453,
+            "name": "MacBook Pro (15-inch Mid 2019)",
+            "description": "Intel Core i9-9980HK @ 2.4 GHz (8 cores)",
+            "samples": 2414,
+            "score": 1074,
+            "multicore_score": 6449,
+            "icon": "macbook-pro-15-mid-2018",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 454,
+            "name": "MacBook Pro (16-inch Late 2019)",
+            "description": "Intel Core i9-9980HK @ 2.4 GHz (8 cores)",
+            "samples": 11879,
+            "score": 1083,
+            "multicore_score": 6811,
+            "icon": "macbook-pro-16-2019",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 455,
+            "name": "MacBook Pro (16-inch Late 2019)",
+            "description": "Intel Core i9-9880H @ 2.3 GHz (8 cores)",
+            "samples": 25156,
+            "score": 1057,
+            "multicore_score": 6502,
+            "icon": "macbook-pro-16-2019",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 456,
+            "name": "MacBook Pro (16-inch Late 2019)",
+            "description": "Intel Core i7-9750H @ 2.6 GHz (6 cores)",
+            "samples": 21893,
+            "score": 1005,
+            "multicore_score": 5273,
+            "icon": "macbook-pro-16-2019",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 457,
+            "name": "Mac Pro (Late 2019)",
+            "description": "Intel Xeon W-3223 @ 3.5 GHz (8 cores)",
+            "samples": 1084,
+            "score": 1016,
+            "multicore_score": 8022,
+            "icon": "mac-pro-2019",
+            "family": "MacPro"
+        },
+        {
+            "id": 458,
+            "name": "Mac Pro (Late 2019)",
+            "description": "Intel Xeon W-3235 @ 3.3 GHz (12 cores)",
+            "samples": 1277,
+            "score": 1114,
+            "multicore_score": 11915,
+            "icon": "mac-pro-2019",
+            "family": "MacPro"
+        },
+        {
+            "id": 459,
+            "name": "Mac Pro (Late 2019)",
+            "description": "Intel Xeon W-3245 @ 3.2 GHz (16 cores)",
+            "samples": 1957,
+            "score": 1118,
+            "multicore_score": 14635,
+            "icon": "mac-pro-2019",
+            "family": "MacPro"
+        },
+        {
+            "id": 460,
+            "name": "Mac Pro (Late 2019)",
+            "description": "Intel Xeon W-3265M @ 2.7 GHz (24 cores)",
+            "samples": 338,
+            "score": 1136,
+            "multicore_score": 18214,
+            "icon": "mac-pro-2019",
+            "family": "MacPro"
+        },
+        {
+            "id": 461,
+            "name": "Mac Pro (Late 2019)",
+            "description": "Intel Xeon W-3275M @ 2.5 GHz (28 cores)",
+            "samples": 967,
+            "score": 1152,
+            "multicore_score": 19995,
+            "icon": "mac-pro-2019",
+            "family": "MacPro"
+        },
+        {
+            "id": 44,
+            "name": "MacBook Pro (Late 2008)",
+            "description": "Intel Core 2 Duo T9600 @ 2.8 GHz (2 cores)",
+            "samples": 30,
+            "score": 361,
+            "multicore_score": 631,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 316,
+            "name": "iMac (Mid 2009)",
+            "description": "Intel Core 2 Duo P7350 @ 2.0 GHz (2 cores)",
+            "samples": 13,
+            "score": 266,
+            "multicore_score": 473,
+            "icon": "imac-24-105",
+            "family": "iMac"
+        },
+        {
+            "id": 84,
+            "name": "Mac mini (Early 2009)",
+            "description": "Intel Core 2 Duo P8400 @ 2.3 GHz (2 cores)",
+            "samples": 18,
+            "score": 312,
+            "multicore_score": 574,
+            "icon": "mac-mini",
+            "family": "Macmini"
+        },
+        {
+            "id": 462,
+            "name": "MacBook Air (Early 2020)",
+            "description": "Intel Core i5-1030NG7 @ 1.1 GHz (4 cores)",
+            "samples": 11026,
+            "score": 1054,
+            "multicore_score": 2817,
+            "icon": "apple",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 463,
+            "name": "MacBook Air (Early 2020)",
+            "description": "Intel Core i7-1060NG7 @ 1.2 GHz (4 cores)",
+            "samples": 4196,
+            "score": 1117,
+            "multicore_score": 3014,
+            "icon": "apple",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 464,
+            "name": "MacBook Air (Early 2020)",
+            "description": "Intel Core i3-1000NG4 @ 1.1 GHz (2 cores)",
+            "samples": 7629,
+            "score": 977,
+            "multicore_score": 1939,
+            "icon": "apple",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 465,
+            "name": "MacBook Pro (13-inch Mid 2020)",
+            "description": "Intel Core i5-8257U @ 1.4 GHz (4 cores)",
+            "samples": 9080,
+            "score": 903,
+            "multicore_score": 3738,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 466,
+            "name": "MacBook Pro (13-inch Mid 2020)",
+            "description": "Intel Core i5-1038NG7 @ 2.0 GHz (4 cores)",
+            "samples": 15798,
+            "score": 1133,
+            "multicore_score": 4202,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 467,
+            "name": "MacBook Pro (13-inch Mid 2020)",
+            "description": "Intel Core i7-1068NG7 @ 2.3 GHz (4 cores)",
+            "samples": 6066,
+            "score": 1220,
+            "multicore_score": 4454,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 468,
+            "name": "iMac (27-inch Retina Mid 2020)",
+            "description": "Intel Core i7-10700K @ 3.8 GHz (8 cores)",
+            "samples": 10921,
+            "score": 1250,
+            "multicore_score": 8141,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 469,
+            "name": "iMac (27-inch Retina Mid 2020)",
+            "description": "Intel Core i9-10910 @ 3.6 GHz (10 cores)",
+            "samples": 1591,
+            "score": 1241,
+            "multicore_score": 9011,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 470,
+            "name": "iMac (27-inch Retina Mid 2020)",
+            "description": "Intel Core i5-10600 @ 3.3 GHz (6 cores)",
+            "samples": 3961,
+            "score": 1181,
+            "multicore_score": 6117,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 471,
+            "name": "iMac (27-inch Retina Mid 2020)",
+            "description": "Intel Core i5-10500 @ 3.1 GHz (6 cores)",
+            "samples": 3329,
+            "score": 1119,
+            "multicore_score": 5869,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 304,
+            "name": "Xserve (Early 2008)",
+            "description": "Intel Xeon E5472 @ 3.0 GHz (8 cores)",
+            "samples": 12,
+            "score": 439,
+            "multicore_score": 2495,
+            "icon": "xserve-intel",
+            "family": "Xserve"
+        },
+        {
+            "id": 472,
+            "name": "MacBook Air (Late 2020)",
+            "description": "Apple M1 @ 3.2 GHz (8 cores)",
+            "samples": 79422,
+            "score": 1706,
+            "multicore_score": 7419,
+            "icon": "apple",
+            "family": "MacBookAir"
+        },
+        {
+            "id": 473,
+            "name": "MacBook Pro (13-inch Late 2020)",
+            "description": "Apple M1 @ 3.2 GHz (8 cores)",
+            "samples": 53588,
+            "score": 1707,
+            "multicore_score": 7394,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 474,
+            "name": "Mac mini (Late 2020)",
+            "description": "Apple M1 @ 3.2 GHz (8 cores)",
+            "samples": 27898,
+            "score": 1713,
+            "multicore_score": 7433,
+            "icon": "mac-mini-aluminum",
+            "family": "Macmini"
+        },
+        {
+            "id": 43,
+            "name": "MacBook Pro (Late 2008)",
+            "description": "Intel Core 2 Duo T9800 @ 2.9 GHz (2 cores)",
+            "samples": 9,
+            "score": 386,
+            "multicore_score": 661,
+            "icon": "macbook-pro-unibody-105",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 475,
+            "name": "iMac (24-inch Mid 2021)",
+            "description": "Apple M1 @ 3.2 GHz (8 cores)",
+            "samples": 4245,
+            "score": 1715,
+            "multicore_score": 7456,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 476,
+            "name": "iMac (24-inch Mid 2021)",
+            "description": "Apple M1 @ 3.2 GHz (8 cores)",
+            "samples": 2309,
+            "score": 1719,
+            "multicore_score": 7476,
+            "icon": "apple",
+            "family": "iMac"
+        },
+        {
+            "id": 477,
+            "name": "MacBook Pro (16-inch, 2021)",
+            "description": "Apple M1 Pro @ 3.2 GHz (10 cores)",
+            "samples": 18357,
+            "score": 1742,
+            "multicore_score": 12148,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 478,
+            "name": "MacBook Pro (16-inch, 2021)",
+            "description": "Apple M1 Max @ 3.2 GHz (10 cores)",
+            "samples": 18987,
+            "score": 1747,
+            "multicore_score": 12229,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 479,
+            "name": "MacBook Pro (14-inch, 2021)",
+            "description": "Apple M1 Pro @ 3.2 GHz (8 cores)",
+            "samples": 11448,
+            "score": 1731,
+            "multicore_score": 9509,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 480,
+            "name": "MacBook Pro (14-inch, 2021)",
+            "description": "Apple M1 Pro @ 3.2 GHz (10 cores)",
+            "samples": 11074,
+            "score": 1738,
+            "multicore_score": 12004,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 481,
+            "name": "MacBook Pro (14-inch, 2021)",
+            "description": "Apple M1 Max @ 3.2 GHz (10 cores)",
+            "samples": 9239,
+            "score": 1747,
+            "multicore_score": 12168,
+            "icon": "apple",
+            "family": "MacBookPro"
+        },
+        {
+            "id": 483,
+            "name": "Mac Studio",
+            "description": "Apple M1 Ultra @ 3.2 GHz (20 cores)",
+            "samples": 1453,
+            "score": 1753,
+            "multicore_score": 23345,
+            "icon": "mac-mini-aluminum",
+            "family": "Mac"
+        },
+        {
+            "id": 482,
+            "name": "Mac Studio",
+            "description": "Apple M1 Max @ 3.2 GHz (10 cores)",
+            "samples": 2024,
+            "score": 1754,
+            "multicore_score": 12331,
+            "icon": "mac-mini-aluminum",
+            "family": "Mac"
+        }
+    ]
+}
